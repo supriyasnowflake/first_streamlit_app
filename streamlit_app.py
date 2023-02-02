@@ -14,10 +14,10 @@ try:
 # write your own comment - what does this do?
   
 
-except URLError as e:
-  streamlit.error()
+#except URLError as e:
+  #streamlit.error()
 
-streamlit.stop()
+#streamlit.stop()
 
 
 streamlit.header("The fruit load list contains:")
